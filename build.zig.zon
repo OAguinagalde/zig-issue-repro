@@ -1,0 +1,10 @@
+.{
+    .name = "server",
+    .version = "0.0.1",
+    .dependencies = .{
+        .zap = .{
+            .url = "https://github.com/zigzap/zap/archive/refs/tags/v0.1.9-pre.tar.gz",
+            .hash = "12201e3ee597a7d9f98dc7fd19492403d754a1da101d2e678795e330c0382ff02f6a",
+        },
+    }
+}
